@@ -116,6 +116,10 @@ link do notebookLM compartilhado
 
 https://notebook.google.com/notebook/5c785e86-6dc1-4abb-b974-bf315f003503
 
+Link Mapa Mental
+https://notebooklm.link.google/mY6h818KCRRI
+
+
 
 
 
