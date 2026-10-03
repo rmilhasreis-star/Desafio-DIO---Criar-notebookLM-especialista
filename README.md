@@ -112,4 +112,10 @@ ________________________________________
 5.	Alocação de Capital: Redução de variância via bolões e análise de janelas de EV > 0.
 •	Fontes Fundamentais: Síntese analítica integrando todas as 22 fontes do seu caderno.
 
+link do notebookLM compartilhado
+
+https://notebook.google.com/notebook/5c785e86-6dc1-4abb-b974-bf315f003503
+
+
+
 
