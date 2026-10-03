@@ -1,4 +1,4 @@
-# Desafio-DIO---Criar-notebookLM-especialista
+# Desafio_DIO_Criar_notebookLM_especialista
 OBJETIVO:
 
 Criar um segundo cérebro para aumentar as chances de ganhar na loteria segundo os especialistas
